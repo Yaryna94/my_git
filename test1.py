@@ -9,5 +9,5 @@ for k,v in zakupy_dict.items():
      print (f"Я йду до {k} і купую там {v}".title())
      x+=len(v)
 
-print(f"Разом купую {x} товарів")
 print ("Like kommit")
+
