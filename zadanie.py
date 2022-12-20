@@ -1,3 +1,4 @@
+x=0
 print("Список покупок")
 
 zakupy_dict = {
@@ -6,4 +7,4 @@ zakupy_dict = {
 }
 for k,v in zakupy_dict.items():
      print (f"Я йду до {k} і купую там {v}".title())
-    
+     x+=len(v)
