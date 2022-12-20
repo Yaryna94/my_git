@@ -10,3 +10,4 @@ for k,v in zakupy_dict.items():
      x+=len(v)
 
 print(f"Разом купую {x} товарів")
+print ("Like kommit")
